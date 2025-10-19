@@ -1,0 +1,1 @@
+This SQL project is designed for a beginner to intermediate learner who is looking to continue to practice writing SQL queries using a real-world dataset. NSDC Data Science Project – Intermediate SQL Queries
